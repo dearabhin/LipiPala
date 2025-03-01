@@ -1,7 +1,7 @@
 # LipiPala AI
 
 <p align="center">
-  <img src="https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/17407620613274043211000012319.jpgduplicate.jpg" alt="LipiPala AI Logo" width="200"/>
+  <img src="banner.jpg" alt="LipiPala AI Logo" width="200"/>
 </p>
 
 > "Lipī" (script) + "Pāla" (guardian) = Preserving India's linguistic heritage through AI
