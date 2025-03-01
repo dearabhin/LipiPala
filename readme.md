@@ -1,7 +1,7 @@
 # LipiPala AI
 
 <p align="center">
-  <img src="docs/assets/lipapala_logo.png" alt="LipiPala AI Logo" width="200"/>
+  <img src="https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/17407620613274043211000012319.jpgduplicate.jpg" alt="LipiPala AI Logo" width="200"/>
 </p>
 
 > "Lipī" (script) + "Pāla" (guardian) = Preserving India's linguistic heritage through AI
@@ -40,8 +40,8 @@ LipiPala AI provides a comprehensive platform that:
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhinavs/lipapala-ai.git
-cd lipapala-ai
+git clone https://github.com/dearabhin/lipipala.git
+cd lipipala
 
 # Create and activate virtual environment
 python -m venv venv
@@ -77,13 +77,11 @@ See our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 ## 📚 Documentation
 
-Detailed documentation is available in the [docs](docs/) directory or at [lipapala.org/docs](https://lipapala.org/docs) (coming soon).
+Detailed documentation is available in the [docs](docs/) directory or at [lipipala.org/docs](https://lipipala.org/docs) (coming soon).
 
 ## 🌐 Community
 
-- Join our [Discord server](https://discord.gg/lipapala)
-- Follow us on [Twitter](https://twitter.com/LipiPalaAI)
-- Subscribe to our [newsletter](https://lipapala.org/newsletter)
+- Join our [Telegram Group](https://t.me/lipipala)
 
 ## 📃 License
 
