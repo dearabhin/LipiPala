@@ -1,11 +1,11 @@
-lipapala-ai/
+lipapala/
 ├── LICENSE
 ├── README.md
 ├── CONTRIBUTING.md
 ├── requirements.txt
 ├── setup.py
 ├── .gitignore
-├── lipapala/
+├── lipipala/
 │   ├── __init__.py
 │   ├── config.py
 │   ├── main.py
@@ -42,7 +42,7 @@ lipapala-ai/
 │       └── dashboard.html
 ├── docs/
 │   ├── assets/
-│   │   └── lipapala_logo.png
+│   │   └── lipipala_logo.png
 │   ├── api-reference.md
 │   ├── contributing-guide.md
 │   ├── language-onboarding.md
