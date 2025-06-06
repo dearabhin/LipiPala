@@ -39,19 +39,17 @@ LipiPala AI provides a comprehensive platform that:
 ### Installation
 
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone https://github.com/dearabhin/lipipala.git
 cd lipipala
 
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+# 2. Install dependencies using Poetry
+# This will create a virtual environment and install all packages from pyproject.toml
+poetry install
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the development server
-python manage.py runserver
+# 3. Run the development server
+# This command executes the main entry point within the Poetry-managed environment
+poetry run python lipipala/main.py
 ```
 
 ## 🧩 Core Components
